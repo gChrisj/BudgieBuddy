@@ -18,4 +18,4 @@
 ### 📌 Status
 Currently in alpha with key features implemented. Built with real users in mind—fun, helpful, and goal-focused.
 
-🔗 [View the Repo](https://github.com/gchrisj/budgiebuddy)
+🔗 [View the Repo](https://github.com/gChrisj/BudgieBuddy)
